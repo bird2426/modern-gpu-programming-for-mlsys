@@ -1,12 +1,6 @@
 (chap_tma)=
 # 异步数据搬运：TMA
 
-<!--
-翻译模板
-
-英文源文件：chapter_tma/index.md
-建议：保留 TMA 指令名、barrier 语义、demo iframe 和图。
--->
 
 :::{admonition} 概览
 :class: overview

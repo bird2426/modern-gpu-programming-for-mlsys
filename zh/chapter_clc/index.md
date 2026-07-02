@@ -1,12 +1,6 @@
 (chap_clc)=
 # 进阶：Cluster Launch Control
 
-<!--
-翻译模板
-
-英文源文件：chapter_clc/index.md
-建议：保留 CLC、CTA、cluster、persistent GEMM、work stealing 等术语。
--->
 
 :::{admonition} 概览
 :class: overview

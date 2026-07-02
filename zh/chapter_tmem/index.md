@@ -1,12 +1,6 @@
 (chap_tmem)=
 # 特殊内存：TMEM
 
-<!--
-翻译模板
-
-英文源文件：chapter_tmem/index.md
-建议：保留 TMEM/TLane/TCol、alloc/free、tcgen05.ld/st 等术语。
--->
 
 :::{admonition} 概览
 :class: overview

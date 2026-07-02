@@ -1,12 +1,6 @@
 (chap_async_barriers)=
 # 异步协作：mbarrier
 
-<!--
-翻译模板
-
-英文源文件：chapter_async_barriers/index.md
-建议：保留 mbarrier API、phase、arrival count 和 demo iframe。
--->
 
 :::{admonition} 概览
 :class: overview
